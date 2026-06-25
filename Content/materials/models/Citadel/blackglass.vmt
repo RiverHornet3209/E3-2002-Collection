@@ -4,7 +4,7 @@
 	"$basetexture" "models/Citadel/blackglass"
 	"$selfillum" "1"
 	"$bumpmap" "models/Citadel/blackglass_normal"
-	"$envmap" "env_cubemap"
+//	"$envmap" "env_cubemap"
 	"$envmapsphere" 1
 	"$envmaptint" "[1 1 1]"
         "$normalmapalphaenvmapmask" 1
